@@ -1,5 +1,18 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
+Buenas tardes profesor, mi nombre es Nicolas Trias, le mando un saludo!
+
+Soy estudiante de la Tecnicatura en Programación desde 2021, actualmente estoy trabajando en la empresa EY. 
+
+Mis Hobbies son la música y el Deporte. Tambien disfruto de jugar Videojuegos!
+
+Dejo una foto de mi perrito Lalo.
+![Lalo](./assets/LALO.jpg)
+
+
+
+
+
 Bienvenidos a
 # Programación con objetos I
 
